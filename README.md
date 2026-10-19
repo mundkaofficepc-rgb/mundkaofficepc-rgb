@@ -1,52 +1,109 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20There!%20%F0%9F%91%8B&fontSize=90&animation=fadeIn" width="100%"/>
+
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · mundkaofficepc-rgb</sub></p>
+<h1>mundkaofficepc-rgb</h1>
+<h2>Product-minded developer</h2>
+<p>Building useful software and sharing the work in public.</p>
+<p><strong>● Building and sharing work in public</strong></p>
+
+<p><a href="https://github.com/mundkaofficepc-rgb">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/251812730?v=4" width="180" alt="mundkaofficepc-rgb GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
-<h1 align="center">I'm a Passionate Developer 🚀</h1>
+<h2>What teams can evaluate quickly</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Product-minded developer</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>2 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>6 contributions · 4 active days</p></td>
+</tr>
+</table>
+
+<p><sub>Building useful software and sharing the work in public.</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>2</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>6</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
 <p align="center">
-  <b>Welcome to my GitHub profile! I love exploring new technologies and building cool stuff.</b>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=mundkaofficepc-rgb&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251812730%3Fv%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=mundkaofficepc-rgb&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251812730%3Fv%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="mundkaofficepc-rgb GitHub proof metrics" />
+</picture>
 </p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=mundkaofficepc-rgb&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251812730%3Fv%3D4&repos=mundkaofficepc-rgb%2FTransport-Bahi-Releases%2Cmundkaofficepc-rgb%2Fmundkaofficepc-rgb&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=mundkaofficepc-rgb&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251812730%3Fv%3D4&repos=mundkaofficepc-rgb%2FTransport-Bahi-Releases%2Cmundkaofficepc-rgb%2Fmundkaofficepc-rgb&v=recruiter-projects-1&mode=dark" width="100%" alt="mundkaofficepc-rgb selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/mundkaofficepc-rgb/Transport-Bahi-Releases">Transport-Bahi-Releases</a></h3>
+<p>Official installers &amp; auto-update feed for Transport Bahi Enterprise (binaries only — source code is in the private main repo)</p>
+<p><sub>⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/mundkaofficepc-rgb/Transport-Bahi-Releases">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/mundkaofficepc-rgb/mundkaofficepc-rgb">mundkaofficepc-rgb</a></h3><p>Premium profile README</p><p><sub>Open source · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
 
 <p align="center">
-  <a href="https://github.com/mundkaofficepc-rgb">
-    <img src="https://komarev.com/ghpvc/?username=mundkaofficepc-rgb&label=Profile%20views&color=0e75b6&style=flat" alt="mundkaofficepc-rgb" />
-  </a>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=mundkaofficepc-rgb&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251812730%3Fv%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=mundkaofficepc-rgb&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251812730%3Fv%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="mundkaofficepc-rgb technology stack" />
+</picture>
 </p>
 
-<br />
+<table width="100%">
+<tr>
+<td width="100%" align="center"><sub>Language data will appear as public repositories are indexed.</sub></td>
+</tr>
+</table>
 
-## 🛠️ Tech Stack & Tools
+<h2>Consistency signal</h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,docker,linux" />
-  </a>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=mundkaofficepc-rgb&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251812730%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=mundkaofficepc-rgb&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251812730%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="mundkaofficepc-rgb contribution activity" />
+</picture>
 </p>
 
-<br />
+<hr />
 
-## 📊 GitHub Stats
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/mundkaofficepc-rgb">GitHub</a></td>
+</tr>
+</table>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mundkaofficepc-rgb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mundkaofficepc-rgb&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<br />
-
-## 🏆 Top Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mundkaofficepc-rgb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <i>Let's connect and build something amazing together!</i>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</div>
+<p align="center"><sub>mundkaofficepc-rgb · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
